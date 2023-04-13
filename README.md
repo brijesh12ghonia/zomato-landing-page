@@ -1,3 +1,4 @@
 # Zomato Landing Page
 
-This is setup branch 
+Link of deployed website
+https://brijesh-zomato-landing-page.netlify.app/
